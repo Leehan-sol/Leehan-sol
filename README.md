@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Leehan-sol
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=iOS`Developer&color=gradient)
 
-<!---
-Leehan-sol/Leehan-sol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+<h2>🧑‍💻 About Me</h2>
+<h3> 📋 blog </h3> https://velog.io/@ho20128/posts</div>
+<div> - </div>
+<div> - </div>
+<div> - </div>
+
+<br/>
+
+<h2>🛠️ Tech Stack</h2>
+   
+![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/UIkit-black)
+![Static Badge](https://img.shields.io/badge/CoreData-green)
+![Static Badge](https://img.shields.io/badge/Firebase-red)
+![Static Badge](https://img.shields.io/badge/Git%26Github-gray)
+
+<br/>
+<br/>
+
+
