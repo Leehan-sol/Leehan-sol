@@ -14,9 +14,15 @@
    
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/UIkit-black)
-![Static Badge](https://img.shields.io/badge/CoreData-green)
+![Static Badge](https://img.shields.io/badge/SwiftUI-black)
+![Static Badge](https://img.shields.io/badge/CoreData%26SwiftData-green) 
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
+![Static Badge](https://img.shields.io/badge/Combine-blue) <br/>
+![Static Badge](https://img.shields.io/badge/Slack-purple)
+![Static Badge](https://img.shields.io/badge/Figma-pink)
+![Static Badge](https://img.shields.io/badge/Notion-white)
 ![Static Badge](https://img.shields.io/badge/Git%26Github-gray)
+
 
 <br/>
 <br/>
