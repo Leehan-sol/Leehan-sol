@@ -5,11 +5,11 @@
 <h2>:wave: Welcome my github profile ! </h2>
 
 
-   * 📲 interested in UI/UX for users.
+   * 📚 Constantly seeking knowledge to enhance my skills and expertise.
    
-   * 📖 want to grow myself through continuous study
+   * 💡 Inspired by the endless possibilities of coding and innovation.
    
-   * 👨‍💻live with the charm of development itself.
+   * 🚀 Passionate about pushing the boundaries of what's possible in technology.
 
  <br/>
 
