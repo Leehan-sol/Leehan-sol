@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=iOSDeveloper-LeeHansol&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=iOSDeveloper-Hansol&color=gradient)
 
 <br/>
 
@@ -19,8 +19,9 @@
 ![Static Badge](https://img.shields.io/badge/UIkit-black)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-blue)
 ![Static Badge](https://img.shields.io/badge/CoreData%26SwiftData-green) 
+![Static Badge](https://img.shields.io/badge/Combine-blue)
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
-![Static Badge](https://img.shields.io/badge/Combine-blue) <br/>
+ <br/>
 ![Static Badge](https://img.shields.io/badge/Slack-purple)
 ![Static Badge](https://img.shields.io/badge/Figma-pink)
 ![Static Badge](https://img.shields.io/badge/Notion-white)
