@@ -18,9 +18,10 @@
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/UIkit-black)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-blue)
+![Static Badge](https://img.shields.io/badge/RxSwift-hotpink)
+![Static Badge](https://img.shields.io/badge/Combine-blue)
 ![Static Badge](https://img.shields.io/badge/CoreData-green) 
 ![Static Badge](https://img.shields.io/badge/SwiftData-green) 
-![Static Badge](https://img.shields.io/badge/Combine-blue)
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
  <br/>
 ![Static Badge](https://img.shields.io/badge/Slack-purple)
