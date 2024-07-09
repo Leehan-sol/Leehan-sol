@@ -20,8 +20,10 @@
 ![Static Badge](https://img.shields.io/badge/SwiftUI-blue)
 ![Static Badge](https://img.shields.io/badge/RxSwift-hotpink)
 ![Static Badge](https://img.shields.io/badge/Combine-orange)
+ <br/>
 ![Static Badge](https://img.shields.io/badge/CoreData-green) 
 ![Static Badge](https://img.shields.io/badge/SwiftData-green) 
+![Static Badge](https://img.shields.io/badge/socketIO-black)
 ![Static Badge](https://img.shields.io/badge/Firebase-red)
  <br/>
 ![Static Badge](https://img.shields.io/badge/Slack-purple)
