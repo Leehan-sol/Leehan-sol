@@ -16,6 +16,7 @@
 <h2>🛠️ Tech Stack</h2>
    
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
+![Static Badge](https://img.shields.io/badge/ObjectiveC-orange)
 ![Static Badge](https://img.shields.io/badge/UIkit-black)
 ![Static Badge](https://img.shields.io/badge/SwiftUI-blue)
 ![Static Badge](https://img.shields.io/badge/RxSwift-hotpink)
