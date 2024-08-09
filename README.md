@@ -18,9 +18,7 @@
 ![Static Badge](https://img.shields.io/badge/Swift-orange)
 ![Static Badge](https://img.shields.io/badge/ObjectiveC-orange)
 ![Static Badge](https://img.shields.io/badge/UIkit-black)
-![Static Badge](https://img.shields.io/badge/SwiftUI-blue)
 ![Static Badge](https://img.shields.io/badge/RxSwift-hotpink)
-![Static Badge](https://img.shields.io/badge/Combine-orange)
  <br/>
 ![Static Badge](https://img.shields.io/badge/CoreData-navy) 
 ![Static Badge](https://img.shields.io/badge/SwiftData-gray) 
