@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=iOSDeveloper-Hansol&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=iOSDeveloper&color=gradient)
 
 <br/>
 
